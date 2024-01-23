@@ -1,1 +1,1 @@
-# web_scraper_kbs
+# temple_scraper_jogyebuddhism
